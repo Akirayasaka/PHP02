@@ -1,0 +1,19 @@
+{
+    "name":"iTaiwan Wifi",
+    "short_name":"iTaiwan Wifi",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#2874f0",
+    "icons": [
+        {
+            "src": "./assets/img/wifi01.png",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        },
+        {
+            "src": "./assets/img/wifi02.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
